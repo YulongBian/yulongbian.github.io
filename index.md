@@ -7,7 +7,7 @@ layout: homepage
 
 I am currently an undergraduate at AI&XR Lab, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). And I am also a research assistant at Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm).
 
-I'll joint HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
+I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
 
 My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data.
 
