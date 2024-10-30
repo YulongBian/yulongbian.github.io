@@ -1,0 +1,26 @@
+main:
+
+  - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
+    authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou*, Yulong Bian* (*Corresponding authors)
+    conference_short: Ubicomp/IMWUT
+    conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
+    pdf: https://arxiv.org/pdf/2405.02045.pdf
+    image: ./assets/img/ubicomp.png
+    notes: Early Accept
+  - title: "Self-Guided DMT: Exploring a Novel Paradigm of Dance Movement Therapy in Mixed Reality for Children with ASD"
+    authors: Weiying Liu, Yanyan Zhang, <strong>Baiqiao Zhang</strong>, Qianqian Xiong, Hong Zhao, Sheng Li*, Juan Liu*, Yulong Bian (*Corresponding authors)
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics <strong>(TVCG)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10463763
+    image: ./assets/img/tvcg.png
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
