@@ -4,9 +4,27 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou*, Yulong Bian* (*Corresponding authors)
     conference_short: Ubicomp/IMWUT
     conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
-    pdf: https://arxiv.org/pdf/2405.02045.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3699774
     image: ./assets/img/ubicomp.png
-    notes: Early Accept
+    note: Oral Presentation
+
+  - title: "Becoming An Animal? Exploring Proteus Effect Based on Human-avatar Hand Gesture Consistency"
+    authors: Tangjun Qu, Junjie Wang, Yongjiu Lin, Juan Liu, Chao Zhou, <strong>Baiqiao Zhang</strong>, Kaiyuan Jiang, Yulong Bian* (*Corresponding authors)
+    conference_short: ISMAR
+    conference: IEEE International Symposium on Mixed and Augmented Reality <strong>(ISMAR)</strong>, 2024.
+    pdf: ./assets/files/ISMAR_2024-_Camera_ready.pdf
+    image: ./assets/img/proteus.png
+    note: Oral Presentation
+
+  - title: "Positive or Negative? The Effect of Self-motion Speed on Flow Experience is Moderated by Susceptibility to VR Sickness"
+    authors: Chao Zhou, Juan Liu, Wenxiu Geng, <strong>Baiqiao Zhang</strong>, Kaiyuan Jiang, Yulong Bian* (*Corresponding authors)
+    conference_short: ISMAR
+    conference: IEEE International Symposium on Mixed and Augmented Reality <strong>(ISMAR)</strong>, 2024.
+    pdf: ./assets/files/ISMAR_2024_VR_SICKNESS__poster_.pdf
+    image: ./assets/img/sickness.png
+    note: Poster
+
+
   - title: "Self-Guided DMT: Exploring a Novel Paradigm of Dance Movement Therapy in Mixed Reality for Children with ASD"
     authors: Weiying Liu, Yanyan Zhang, <strong>Baiqiao Zhang</strong>, Qianqian Xiong, Hong Zhao, Sheng Li*, Juan Liu*, Yulong Bian (*Corresponding authors)
     conference_short: TVCG
