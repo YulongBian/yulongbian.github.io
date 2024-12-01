@@ -1,5 +1,13 @@
 main:
 
+  - title: "Enhancing Recognition of Stereotyped Movements in ASD Children through Action Pattern Mining and Multi-Channel Fusion"
+    authors: <strong>Baiqiao Zhang</strong>, Yanran Yuan, Wei Qin, Xiangxian Li, Weiying Liu, Wenxin Yao, Yulong Bian, Juan Liu* (*Corresponding authors)
+    conference_short: JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics, 2024.
+    pdf: ./assets/files/JBHI_revision.pdf
+    image: ./assets/img/jbhi.png
+    notes: Early Accept
+
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou*, Yulong Bian* (*Corresponding authors)
     conference_short: Ubicomp/IMWUT

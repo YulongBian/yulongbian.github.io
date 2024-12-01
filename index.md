@@ -21,6 +21,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 
 ## News
 
+- **[Dec. 2024]** Our paper about stereotyped movement recognition is accepted bt IEEE Journal of Biomedical and Health Informatics (J-BHI).
 - **[Nov. 2024]** I am nominated for the Shandong University President's Award.
 - **[Nov. 2024]** I get the 120th Anniversary Scholarship of Shandong University (120 students university-wide).
 - **[Oct. 2024]** I participate in ISMAR 2024, and make an oral presentation about our work.
