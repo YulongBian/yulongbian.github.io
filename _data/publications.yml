@@ -5,7 +5,8 @@ main:
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics, 2024.
     pdf: https://ieeexplore.ieee.org/document/10778548
-    image: ./assets/img/jbhi.png
+    bibtex: ./assets/bib/movement.txt
+    image: ./assets/img/jbhi_1.png
     notes: Early Accept
 
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
@@ -13,6 +14,7 @@ main:
     conference_short: Ubicomp/IMWUT
     conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
     pdf: https://dl.acm.org/doi/10.1145/3699774
+    bibtex: ./assets/bib/flow.txt
     image: ./assets/img/ubicomp.png
     notes: Oral Presentation
 
@@ -21,14 +23,16 @@ main:
     conference_short: ISMAR
     conference: IEEE International Symposium on Mixed and Augmented Reality <strong>(ISMAR)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10765491
+    bibtex: ./assets/bib/pt.txt
     image: ./assets/img/proteus.png
-    notes: Oral Presentation
+    notes: Oral Presentation  
 
   - title: "Positive or Negative? The Effect of Self-motion Speed on Flow Experience is Moderated by Susceptibility to VR Sickness"
     authors: Chao Zhou, Juan Liu, Wenxiu Geng, <strong>Baiqiao Zhang</strong>, Kaiyuan Jiang, Yulong Bian* (*Corresponding author)
     conference_short: ISMAR
     conference: IEEE International Symposium on Mixed and Augmented Reality <strong>(ISMAR)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10765313
+    bibtex: ./assets/bib/sickness.txt
     image: ./assets/img/sickness.png
 
 
@@ -37,6 +41,7 @@ main:
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics <strong>(TVCG)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10463763
+    bibtex: ./assets/bib/asd.txt
     image: ./assets/img/tvcg.png
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
