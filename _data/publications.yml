@@ -1,5 +1,12 @@
 main:
 
+  - title: "Multi-sensory Simulation of Wind Sensation (MSSWS): An Approach of Reducing Motion Sickness in Passive Virtual Driving"
+    authors: Yuan yue, Chao Zhou, Tangjun Qu, <strong>Baiqiao Zhang</strong>,  Juan Liu, Junhao Wang, Tianren Luo, Yulong Bian* (*Corresponding author)
+    conference_short: IEEE VR
+    conference: IEEE Virtual Reality conference, 2025.
+    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/VR.png
+
   - title: "Enhancing Recognition of Stereotyped Movements in ASD Children through Action Pattern Mining and Multi-Channel Fusion"
     authors: <strong>Baiqiao Zhang</strong>, Yanran Yuan, Wei Qin, Xiangxian Li, Weiying Liu, Wenxin Yao, Yulong Bian, Juan Liu* (*Corresponding author)
     conference_short: JBHI
