@@ -41,8 +41,8 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 
 ## Awards
 
-- **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (75 students university-wide).
-- **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (120 students university-wide).
+- **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (**75/42254**).
+- **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
 - **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award.
 - **[Apr. 2024]** Second prize in national college student software innovation competition (**20th/1139**).
 - **[Aug. 2023]** CHCI 2023 Best Paper Honorable Mention Award.
