@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Work in process</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Work in progress</h2>
 
 <div class="publications">
 <ol class="bibliography">
