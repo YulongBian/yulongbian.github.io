@@ -36,6 +36,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 - **[Aug. 2023]** We get CHCI 2023 Best Paper Honorable Mention Award.
 
 
+{% include_relative _includes/work_in_process.md %}
 
 {% include_relative _includes/publications.md %}
 

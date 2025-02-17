@@ -1,0 +1,20 @@
+main:
+
+  - title: "Exploring a Gamified Personality Assessment Method through Interaction with Multi-Personality LLM Agents"
+    authors: Baiqiao Zhang, Xiangxian Li, Chao Zhou, Juan Liu, Xue Yang, Xinyu Gai, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
+    conference_short: Under Review
+    conference: Under review at a top HCI conference
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint1.png
+
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
