@@ -21,6 +21,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 
 ## News
 
+- **[Feb. 2025]** I receive the honor of Outstanding Graduate of Shandong University.
 - **[Jan. 2025]** Our paper about Reducing Motion Sickness in Passive Virtual Driving is accepted by IEEE Virtual Reality (IEEE VR).
 - **[Dec. 2024]** Our paper about [Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI).
 - **[Nov. 2024]** I am nominated for the Shandong University President's Award.
@@ -41,7 +42,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 {% include_relative _includes/publications.md %}
 
 ## Awards
-
+- **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
 - **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (**75/42254**).
 - **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
 - **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award.
