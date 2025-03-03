@@ -42,7 +42,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 {% include_relative _includes/publications.md %}
 
 ## Awards
-- **[Feb. 2025]** Outstanding Graduate of Shandong University (**20%**).
+- **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
 - **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (**75/42254**).
 - **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
 - **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award.
