@@ -15,6 +15,7 @@ main:
     bibtex: ./assets/bib/movement.txt
     code: https://github.com/SLEEPYBQ/ACSA653-Dataset
     image: ./assets/img/jbhi_1.png
+    notes: Featured Article
 
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou*, Yulong Bian* (*Corresponding authors)
