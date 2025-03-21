@@ -23,3 +23,48 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.nature.com/npjscilearn/"><autocolor>npj Science of Learning</autocolor></a></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Basic of Photography & Cinematography 2022 Fall</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Three-dimensional Contents Design and Creation 2023 Spring</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Basic Photography 2023 Spring</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Visual Language for Animation 2023 Summer</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Visual Communication 2023 Fall</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>VR System Development and Usability Study 2023 Fall</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Digital image Processing 2024 Spring</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Human-Computer Interaction Technology 2024 Spring</autocolor></a></li>
+</ul>
+
+
+
