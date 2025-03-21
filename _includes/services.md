@@ -27,43 +27,43 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Basic of Photography & Cinematography 2022 Fall</autocolor></a></li>
+  <li><autocolor>Basic of Photography & Cinematography 2022 Fall</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Three-dimensional Contents Design and Creation 2023 Spring</autocolor></a></li>
+  <li><autocolor>Three-dimensional Contents Design and Creation 2023 Spring</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Basic Photography 2023 Spring</autocolor></a></li>
+  <li><autocolor>Basic Photography 2023 Spring</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Visual Language for Animation 2023 Summer</autocolor></a></li>
+  <li><autocolor>Visual Language for Animation 2023 Summer</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Visual Communication 2023 Fall</autocolor></a></li>
+  <li><autocolor>Visual Communication 2023 Fall</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>VR System Development and Usability Study 2023 Fall</autocolor></a></li>
+  <li><autocolor>VR System Development and Usability Study 2023 Fall</autocolor>/li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></a></li>
+  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Digital image Processing 2024 Spring</autocolor></a></li>
+  <li><autocolor>Digital image Processing 2024 Spring</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></a></li>
+  <li><autocolor>Special Effect and Post Composition 2024 Spring</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Human-Computer Interaction Technology 2024 Spring</autocolor></a></li>
+  <li><autocolor>Human-Computer Interaction Technology 2024 Spring</autocolor></li>
 </ul>
 
 
