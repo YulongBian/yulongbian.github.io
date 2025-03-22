@@ -47,7 +47,7 @@
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>VR System Development and Usability Study 2023 Fall</autocolor>/li>
+  <li><autocolor>VR System Development and Usability Study 2023 Fall</autocolor></li>
 </ul>
 
 <ul style="margin:0 0 20px;">
