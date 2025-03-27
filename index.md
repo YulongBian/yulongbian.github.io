@@ -53,3 +53,5 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 - **[2022-2024]** Shandong University Academic Scholarship.
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
