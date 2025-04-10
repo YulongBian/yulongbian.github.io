@@ -24,5 +24,10 @@
   <li><a href="https://www.nature.com/npjscilearn/"><autocolor>npj Science of Learning</autocolor></a></li>
 </ul>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Report</autocolor></a></li>
+</ul>
+
+
 
 
