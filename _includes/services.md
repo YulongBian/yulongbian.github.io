@@ -35,7 +35,7 @@
 <h4 style="margin:0 10px 0;">Community Service</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a"><autocolor>Student Volunteer of CHI 2025 - China Night</autocolor></a></li>
+  <li><a><autocolor>Student Volunteer of CHI 2025 - China Night</autocolor></a></li>
 </ul>
 
 
