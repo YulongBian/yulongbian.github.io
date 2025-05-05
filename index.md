@@ -21,6 +21,7 @@ My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP
 
 ## News
 
+- **[Apr. 2025]** I participate in CHI 2025.
 - **[Mar. 2025]** Our paper about [Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is selected as J-BHI featured article.
 - **[Feb. 2025]** I receive the honor of Outstanding Graduate of Shandong University (**6%**).
 - **[Jan. 2025]** Our paper about Reducing Motion Sickness in Passive Virtual Driving is accepted by IEEE Virtual Reality (IEEE VR).
