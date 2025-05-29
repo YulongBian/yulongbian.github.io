@@ -54,3 +54,6 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+plugins:
+  - jekyll-sitemap
