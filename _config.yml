@@ -1,14 +1,14 @@
 # Basic Information 
 title: Baiqiao Zhang
-position: Undergraduate Student
-affiliation: Shandong University
+position: PhD Student
+affiliation: HKUST
 email: baiqiao@mail.sdu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 # Search Engine Optimization (SEO)
-keywords: Baiqiao Zhang, Computer Science, Human-Computer Interaction, Mixed Reality, Shandong University, Undergraduate Research
-description: Baiqiao Zhang is an undergraduate student at Shandong University, focusing on Human-Computer Interaction and Mixed Reality research.
+keywords: Baiqiao Zhang, Computer Science, Human-Computer Interaction, Mixed Reality, The Hong Kong University of Science and Technology, HKUST, PhD student, NLP
+description: Baiqiao Zhang is a Phd student at The Hong Kong University of Science and Technology (HKUST), focusing on Human-Computer Interaction and Mixed Reality research.
 canonical: https://sleepybq.github.io/  # 替换成你的实际网站URL
 
 # Links 
@@ -35,9 +35,9 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# # Google Analytics ID
+# # Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

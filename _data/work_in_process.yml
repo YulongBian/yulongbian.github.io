@@ -7,6 +7,13 @@ main:
     # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
     image: ./assets/img/preprint1.png
 
+  - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
+    authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
+    conference_short: Under Review
+    conference: Under review at a top NLP conference
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint2.png
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
