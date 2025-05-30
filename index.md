@@ -60,3 +60,5 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/gallery.md %}
