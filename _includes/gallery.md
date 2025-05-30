@@ -1,8 +1,3 @@
-<!-- ---
-layout: page
-title: 照片墙
-permalink: /gallery/
---- -->
 
 <div class="photo-gallery-container">
   <div id="justified-gallery">
