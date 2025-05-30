@@ -32,12 +32,6 @@
   color: #eee;
 }
 
-/* 加载动画 */
-.photo-gallery-loader {
-  text-align: center;
-  padding: 20px;
-}
-
 /* 响应式调整 */
 @media (max-width: 767px) {
   #justified-gallery {
