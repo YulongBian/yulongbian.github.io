@@ -4,11 +4,21 @@ layout: homepage
 
 ## About Me
 
+I am Yulong Bian, an Associate Researcher at the School of Mechanical, Electrical and Information Engineering, Shandong University (SDU), and a Future Scholar of the university. I currently serve as a member of the Executive Committee of the ACM SIGCHI China Chapter and as a committee member of the CCF Technical Committee on Human-Computer Interaction.
+
+My research focuses on intelligent human-computer interaction, physiological computing, and intelligent psychological assessment. I have led one project funded by the National Natural Science Foundation of China and one project under the National Key R&D Program, along with four additional projects at the provincial or ministerial level.
+
+To date, I have published over 40 papers in top-tier conferences and journals such as ACM CHI, IJHCS, TVCG, Unicomp, JBHI, and IEEE TAFFC, which are recognized as CCF Class A or Q1 journals by the Chinese Academy of Sciences. I have also been awarded a university-level education reform project, contributed to two academic books, and received four provincial or ministerial science and technology awards. In 2020, I was honored with the ACM Rising Star Award.
+
+
+<!-- Hi, I am an Associate Researcher at the School of Mechanical, Electrical and Information Engineering, Shandong University (SDU).
+
+
 I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). 
 
 Previously, I was a research assistant at AI&XR Lab, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). I also worked as a research assistant at Tsinghua University (THU), under the supervision of Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). I received my bachelor’s degree in Computer Science and Technology in 2025 through a joint program between Shandong University (SDU) and the Australian National University (ANU).
 
-My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data.
+My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data. -->
 
 <!-- I am currently an undergraduate at AI&XR Lab, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). And I am also a research assistant at Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm).
 
@@ -19,9 +29,11 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 ## Research Interests
 
 - **Human-computer Interaction:** user experience, virtual reality, ubiquitous computing
-- **Human-centered AI:** EEG-based affective computing, flow experience computing
-- **NLP:** sentiment analysis, emotion recognition, prompt engineering
+- **Physiological Computin:** EEG-based affective computing, flow experience computing
+- **Intelligent Psychological Assessment:** sentiment analysis, emotion recognition, psychological assessment
 - **Pattern Recognition:** video representation learning, action recognition
+
+ <!-- human-computer interaction, physiological computing, and intelligent psychological assessment -->
 
 ## News
 
@@ -43,7 +55,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **[Aug. 2023]** We get CHCI 2023 Best Paper Honorable Mention Award.
 
 
-{% include_relative _includes/work_in_process.md %}
+<!-- {% include_relative _includes/work_in_process.md %} -->
 
 {% include_relative _includes/publications.md %}
 

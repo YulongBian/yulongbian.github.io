@@ -1,26 +1,26 @@
 # Basic Information 
-title: Baiqiao Zhang
-position: PhD Student
-affiliation: HKUST
-email: baiqiao@mail.sdu.edu.cn
+title: Yulong Bian
+position: Associate Professor
+affiliation: Shandong University
+email: bianyulong@sdu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 # Search Engine Optimization (SEO)
-keywords: Baiqiao Zhang, Computer Science, Human-Computer Interaction, Mixed Reality, The Hong Kong University of Science and Technology, HKUST, PhD student, NLP
-description: Baiqiao Zhang is a Phd student at The Hong Kong University of Science and Technology (HKUST), focusing on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition.
-canonical: https://sleepybq.github.io/  # 替换成你的实际网站URL
+keywords: Yulong Bian, Computer Science, Human-Computer Interaction, Mixed Reality, Shandong University, SDU, Associate Professor, Psychology
+description: Yulong Bian is an Associate Professor at Shandong University (SDU), focusing on Human-computer Interaction and Mixed Reality.
+canonical: https://Yulongbian.github.io/  # 替换成你的实际网站URL
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.cz/citations?user=qxAMCvgAAAAJ&hl=en
-cv_link: assets/files/CV.pdf
-github_link: https://github.com/SLEEPYBQ
+# google_scholar: https://scholar.google.cz/citations?user=qxAMCvgAAAAJ&hl=en
+# cv_link: assets/files/CV.pdf
+# github_link: https://github.com/SLEEPYBQ
 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/bq.png
+avatar: ./assets/img/avatar.png
 favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/icon.png
 # Footnote
