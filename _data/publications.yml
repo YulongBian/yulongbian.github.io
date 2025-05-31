@@ -39,7 +39,7 @@ main:
     authors: Yichen Hong, Chao Zhou, Zelu Liu, Ni Zifeng, Juan Liu, Xiangxian Li, Chenglei Yang, <strong>Yulong Bian</strong> (*Corresponding author)
     conference_short: CHI
     conference: The 2025 CHI Conference on Human Factors in Computing Systems.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    pdf: https://dl.acm.org/doi/abs/10.1145/3706599.3720250
     image: ./assets/img/VR.png
 
   - title: "QCM: A Curvature Manipulation Method to Suppress Discomfort in Redirected Walking"
@@ -129,29 +129,29 @@ main:
     authors: <strong>Yulong Bian</strong>, Chao Zhou, Wei Gai, Juan Liu, Chenglei Yang* (*Corresponding author)
     conference_short: VR
     conference: Virtual Reality, 2025.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://link.springer.com/article/10.1007/s10055-023-00758-3
+    image: ./assets/img/VR23.png
   
   - title: "A Multi-View Co-Learning Method for Multimodal Sentiment Analysis"
     authors: 	Wenxiu Geng, <strong>Yulong Bian*</strong>, Xiangxian Li (*Corresponding author)
     conference_short: ICME
     conference: IEEE International Conference on Multimedia & Expo 2023.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/10219921
+    image: ./assets/img/ICME23.png
 
   - title: "A Dual-branch Enhanced Multi-task Learning Network for Multimodal Sentiment Analysis"
     authors: 	Wenxiu Geng, Xiangxian Li, <strong>Yulong Bian*</strong> (*Corresponding author)
     conference_short: ICMR
     conference: The ACM International Conference on Multimedia Retrieval, 2023.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3591106.3592260
+    image: ./assets/img/ICMR23.png
   
   - title: "Breaking the Ice with Group Flow: A Collaborative VR Serious Game for Relationship Enhancement"
     authors: 	Wenxiu Geng, <strong>Yulong Bian*</strong>, Xiangxian Li (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2023.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png 
+    pdf: https://ieeexplore.ieee.org/document/10108716/
+    image: ./assets/img/VRWS.png 
   
   
 
@@ -159,111 +159,111 @@ main:
     authors: 	Juan Liu, <strong>Yulong Bian*</strong>, Yuting Xi, Yawen Zheng, Jin Huang, Wei Gai, Chenglei Yang, Xiangxu Meng (*Corresponding author)
     conference_short: IJHCS
     conference: International Journal of Human-Computer Studies, 2022.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://www.sciencedirect.com/science/article/pii/S1071581922000441?via%3Dihub
+    image: ./assets/img/IJHCS22.png
   
   - title: "Development of an Indoor Exergame Based on Moving-Target Hitting Task for COVID-19 Epidemic: A Comparison Between AR and VR Mode"
     authors: 	Hui Yang, Junyan Li, Jingnan Liu, <strong>Yulong Bian*</strong>, Juan Liu (*Corresponding author)
     conference_short: TOG
     conference: IEEE Transactions on Games, 2022.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/9560093
+    image: ./assets/img/TOG.png
   
   - title: "Designing and deploying a mixed-reality aquarium for cognitive training of young children with autism spectrum disorder"
-    authors: Juan Liu, <strong>Yulong Bian*</strong>, Yanran Yuan, Yuting Xi, Wenxiu Geng, Xinpei Jin, Wei Gai, Xiangmin Fan, Feng Tian, Xiangxu Meng, Chenglei Yang (*Corresponding author)
+    authors: Juan Liu, <strong>Yulong Bian</strong>, Yanran Yuan, Yuting Xi, Wenxiu Geng, Xinpei Jin, Wei Gai, Xiangmin Fan, Feng Tian, Xiangxu Meng, Chenglei Yang* (*Corresponding author)
     conference_short: Sci. China Inf. Sci
     conference: Science China-Information Science, 2021.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://link.springer.com/article/10.1007/s11432-020-2941-7
+    image: ./assets/img/SCICHI.png
   
   - title: "Exploring the effect of virtual reality relaxation environment on white coat hypertension in blood pressure measurement"
-    authors: 	Hui Yang, Junyan Li, Jingnan Liu, <strong>Yulong Bian*</strong>, Juan Liu (*Corresponding author)
+    authors: 		Haokai Ma, <strong>Yulong Bian*</strong>, Yingbin Wang, Chao Zhou, Wenxiu Geng, Fan Zhang, Juan Liu, Chenglei Yang* (*Corresponding author)
     conference_short: JBI
     conference: Journal of Biomedical Informatics, 2021.
     pdf: https://www.sciencedirect.com/science/article/pii/S1532046421000502?via%3Dihub
-    image: ./assets/img/VR.png
+    image: ./assets/img/JBI.png
   
   - title: "Estimation of Human Sensitivity for Curvature Gain of Redirected Walking Technology"
     authors: 	Huiyu Li, <strong>Yulong Bian*</strong>, Chenglei Yang*, Fan Zhang, Yanshuai Zhao, Juan Liu, Xiangxu Meng, Linwei Fan (*Corresponding author)
     conference_short: MobileHCI
     conference: International Conference on Mobile Human-Computer Interaction, 2021.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3447526.3472018
+    image: ./assets/img/MHCI.png
   
   - title: "The Role of the Field Dependence-independence Construct on the Flow-performance Link in Virtual Reality"
     authors: 	<strong>Yulong Bian</strong>, Chao Zhou, Yeqing Chen, Yanshuai Zhao, Juan Liu, Chenglei Yang (*Corresponding author)
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2020.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3384382.3384529
+    image: ./assets/img/I3D.png
   
   
   - title: "Explore the Weak Association between Flow and Performance Based on a Visual Search Task Paradigm in Virtual Reality"
-    authors: 	<strong>Yulong Bian</strong>, Chao Zhou, Yeqing Chen, Yanshuai Zhao, Juan Liu, Chenglei Yang, Xiangxu Meng (*Corresponding author)
+    authors: 	<strong>Yulong Bian</strong>, Chao Zhou, Yeqing Chen, Yanshuai Zhao, Juan Liu, Chenglei Yang*, Xiangxu Meng (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2019.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/8798237
+    image: ./assets/img/VR19-ylb.png
   
   - title: "Developing an Agent-based Virtual Interview Training System for College Students with High Shyness Level"
     authors: 	Xinpei Jin, <strong>Yulong Bian*</strong>, Wenxiu Geng, Yeqing Chen, Ke Chu, Hao Hu, Juan Liu, Yuliang Shi, Chenglei Yang (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2019.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/8797764
+    image: ./assets/img/VR19-xpj.png
   
   - title: "Mixed Reality Storytelling Environments Based on Tangible User Interface: Take Origami as an Example"
     authors: 	Yingjie Song, Nianmei Zhou, Qianhui Sun, Wei Gai, Juan Liu, <strong>Yulong Bian</strong>, Shijun Liu, Lizhen Cui, Chenglei Yang* (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2019.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/8798114
+    image: ./assets/img/VR19-s.png
   
   - title: "Exploring the Weak Association between Flow Experience and Performance in Virtual Environments"
-    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang, Chao Zhou, Juan Liu, Wei Gai, Xiangxu Meng, Feng Tian, Chia Shen (*Corresponding author)
+    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Chao Zhou, Juan Liu, Wei Gai, Xiangxu Meng, Feng Tian, Chia Shen (*Corresponding author)
     conference_short: CHI
     conference: The 2018 CHI Conference on Human Factors in Computing Systems.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3173574.3173975
+    image: ./assets/img/CHI18b.png
 
   - title: "Two Kinds of Novel Multi-user Immersive Display Systems"
-    authors: 	Dong-Dong Guan, Chenglei Yang, Wei-Si Sun, Yuan Wei, Wei Gai, <strong>Yulong Bian</strong>, Juan Liu, Qianhui Sun, Siwei Zhao, Xiangxu Meng (*Corresponding author)
+    authors: 	Dong-Dong Guan, Chenglei Yang*, Wei-Si Sun, Yuan Wei, Wei Gai, <strong>Yulong Bian</strong>, Juan Liu, Qianhui Sun, Siwei Zhao, Xiangxu Meng (*Corresponding author)
     conference_short: CHI
     conference: The 2018 CHI Conference on Human Factors in Computing Systems.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3173574.3174173
+    image: ./assets/img/CHI18g.png
 
   - title: "A Method of View-Dependent Stereoscopic Projection on Curved Screen"
     authors: 	Juan Liu, Hanchao Li, Lu Zhao, Siwei Zhao, Guowen Qi, <strong>Yulong Bian</strong>, Xiangxu Meng, Chenglei Yang* (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2018.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/8446222
+    image: ./assets/img/VR18.png
   
   - title: "Supporting Easy Physical-to-Virtual Creation of Mobile VR Maze Games: A New Genre"
     authors: 		Wei Gai, Chenglei Yang, <strong>Yulong Bian</strong>, Chia Shen, Xiangxu Meng, Lu Wang, Juan Liu, Mingda Dong, Chengjie Niu, Cheng Lin (*Corresponding author)
     conference_short: CHI
     conference: The 2017 CHI Conference on Human Factors in Computing Systems.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3025453.3025494
+    image: ./assets/img/CHI17.png
 
   - title: "Enabling Participatory Design of 3D Virtual Scenes on Mobile Devices"
     authors: 	Xiaowen Sun, Yafang Wang, Gerard de Melo, Wei Gai, Yuliang Shi, Lu Zhao, <strong>Yulong Bian</strong>, Juan Liu, Chenglei Yang, Xiangxu Meng (*Corresponding author)
     conference_short: WWW
     conference: ACM International World Wide Web Conference, 2017.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/3041021.3054173
+    image: ./assets/img/WWW.png
   
   - title: "A framework for physiological indicators of flow in VR games: construction and preliminary evaluation"
     authors: 	<strong>Yulong Bian</strong>, Chenglei Yang, Fengqiang Gao, Huiyu Li, Shisheng Zhou, Hanchao Li, Xiaowen Sun, Xiangxu Meng (*Corresponding author)
     conference_short: PUC
     conference: Personal and Ubiquitous Computing, 2016.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://link.springer.com/article/10.1007/s00779-016-0953-5
+    image: ./assets/img/PUC.png
   
   - title: "Effects of Pedagogical Agent's Personality and Emotional Feedback Strategy on Chinese Students' Learning Experiences and Performance: A Study Based on Virtual Tai Chi Training Studio"
     authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Dong-Dong Guan, Sa Xiao, Fengqiang Gao, Chia Shen, Xiangxu Meng (*Corresponding author)
     conference_short: CHI
     conference: The 2016 CHI Conference on Human Factors in Computing Systems.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://dl.acm.org/doi/10.1145/2858036.2858351
+    image: ./assets/img/CHI16.png
