@@ -55,7 +55,6 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **[Aug. 2023]** We get CHCI 2023 Best Paper Honorable Mention Award.
 
 
-<!-- {% include_relative _includes/work_in_process.md %} -->
 
 {% include_relative _includes/publications.md %}
 
@@ -72,8 +71,3 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}
-
-## Misc.
-I enjoy photography, coffee, and badminton. I also have a cat named Benben (笨笨). Feel free to reach out if you’d like to go shooting or play badminton together!
-
-{% include_relative _includes/gallery.md %}

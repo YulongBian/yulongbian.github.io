@@ -61,9 +61,9 @@ main:
   - title: "Focus on Cooperation: A Face-to-Face VR Serious Game for Relationship Enhancement"
     authors: <strong>Yulong Bian</strong>, Chao Zhou, Yang Zhang, Juan Liu, Jenny Sheng, Yong-Jin Liu* (*Corresponding author)
     conference_short: TAFFC
-    conference: IEEE Transactions on Affective Computing, 2025.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    conference: IEEE Transactions on Affective Computing, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10223310
+    image: ./assets/img/TAFFC.png
 
   - title: "Enhancing Recognition of Stereotyped Movements in ASD Children through Action Pattern Mining and Multi-Channel Fusion"
     authors: Baiqiao Zhang, Yanran Yuan, Wei Qin, Xiangxian Li, Weiying Liu, Wenxin Yao, <strong>Yulong Bian</strong>, Juan Liu* (*Corresponding author)
@@ -115,15 +115,15 @@ main:
     authors: 	Lutong Wang, Wei Gai, Nan Jiang, Gongxiang Chen, <strong>Yulong Bian</strong>, Hongqiu Luan, Li Huang, Chenglei Yang* (*Corresponding author)
     conference_short: JBHI
     conference: IEEE IEEE Journal of Biomedical and Health Informatics, 2024.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/10460300
+    image: ./assets/img/JBHIwlt.png
 
   - title: "Dynamic Translation Gain in Redirected Walking: Towards Exploring Larger Virtual Spaces"
     authors: Xiyu Bao, Rui Jing, Chenglei Yang, <strong>Yulong Bian</strong>, Cheng Lin (*Corresponding author)
     conference_short: ISMAR
     conference: IEEE International Symposium on Mixed and Augmented Reality <strong>(ISMAR)</strong>, 2024.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/VR.png
+    pdf: https://ieeexplore.ieee.org/document/10765204
+    image: ./assets/img/ISMARbxy.png
 
   - title: "The effect of embodied interaction designs on flow experience: examination in VR games"
     authors: <strong>Yulong Bian</strong>, Chao Zhou, Wei Gai, Juan Liu, Chenglei Yang* (*Corresponding author)
