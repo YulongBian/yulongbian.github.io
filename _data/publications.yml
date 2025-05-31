@@ -47,7 +47,7 @@ main:
     conference_short: CHI
     conference: The 2025 CHI Conference on Human Factors in Computing Systems.
     pdf: https://dl.acm.org/doi/abs/10.1145/3706599.3720250
-    image: ./assets/img/VR.png
+    image: ./assets/img/CHI25ea2.png
     
   - title: "Evaluating the effects of user motion and viewing mode on target selection in augmented reality"
     authors: 	Yang Li, Juan Liu, Jin Huang, Yang Zhang, Xiaolan Peng, <strong>Yulong Bian</strong>, Feng Tian (*Corresponding author)
