@@ -27,13 +27,20 @@ main:
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces, 2025.
     pdf: https://ieeexplore.ieee.org/document/10972876
     image: ./assets/img/VR.png
+
+  - title: "QCM: A Curvature Manipulation Method to Suppress Discomfort in Redirected Walking"
+    authors: Xiyu Bao, Gaorong Lv*, <strong>Yulong Bian*</strong>, Wei Gai, Shiqing Xin, Hongqiu Luan, Xiaojuan Ma, Chenglei Yang* (*Corresponding author)
+    conference_short: CHI
+    conference: The 2025 CHI Conference on Human Factors in Computing Systems.
+    pdf: https://dl.acm.org/doi/10.1145/3706598.3714116
+    image: ./assets/img/CHI25.png
   
   - title: "A Unified Representation Model and View Mapping Algorithm for Path-Mapping-Based Redirection Gains in Redirected Walking"
     authors: Xiyu Bao, <strong>Yulong Bian</strong>, Shiqing Xin, Meng Qi, Chenglei Yang (*Corresponding author)
     conference_short: CHI
     conference: The 2025 CHI Conference on Human Factors in Computing Systems.
     pdf: https://dl.acm.org/doi/10.1145/3706599.3719815
-    image: ./assets/img/VR.png
+    image: ./assets/img/CHI25ea.png
 
   - title: "Computing Flow Experience Based on Physiological Signals: A Systematic Literature Review"
     authors: Yichen Hong, Chao Zhou, Zelu Liu, Ni Zifeng, Juan Liu, Xiangxian Li, Chenglei Yang, <strong>Yulong Bian</strong> (*Corresponding author)
@@ -41,14 +48,7 @@ main:
     conference: The 2025 CHI Conference on Human Factors in Computing Systems.
     pdf: https://dl.acm.org/doi/abs/10.1145/3706599.3720250
     image: ./assets/img/VR.png
-
-  - title: "QCM: A Curvature Manipulation Method to Suppress Discomfort in Redirected Walking"
-    authors: Xiyu Bao, Gaorong Lv*, <strong>Yulong Bian*</strong>, Wei Gai, Shiqing Xin, Hongqiu Luan, Xiaojuan Ma, Chenglei Yang* (*Corresponding author)
-    conference_short: CHI
-    conference: The 2025 CHI Conference on Human Factors in Computing Systems.
-    pdf: https://dl.acm.org/doi/10.1145/3706598.3714116
-    image: ./assets/img/VR.png
-
+    
   - title: "Evaluating the effects of user motion and viewing mode on target selection in augmented reality"
     authors: 	Yang Li, Juan Liu, Jin Huang, Yang Zhang, Xiaolan Peng, <strong>Yulong Bian</strong>, Feng Tian (*Corresponding author)
     conference_short: IJHCS
