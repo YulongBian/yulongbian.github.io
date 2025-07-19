@@ -90,5 +90,5 @@ I have been fortunate to mentor many self-motivated undergraduate and graduate s
 - **Yunfan Zhou**: Human-computer Interaction. Master Student at Zhejiang University (ZJU)
 - **Yuan yue**: Human-computer Interaction. Master Student at Tsinghua University (THU)
 - **An Bella Chen**: Human-computer Interaction. Master Student at University of Waterloo (UWaterloo)
-- ** Haoxiang Hu**: Human-computer Interaction. PhD Student at Institute of Software Chinese Academy of Sciences (ISCAS)
+- **Haoxiang Hu**: Human-computer Interaction. PhD Student at Institute of Software Chinese Academy of Sciences (ISCAS)
 
