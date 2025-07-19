@@ -6,7 +6,7 @@ layout: homepage
 
 I am Yulong Bian, an Associate Researcher at the School of Mechanical, Electrical and Information Engineering, Shandong University (SDU), and a Future Scholar of the university. I currently serve as a member of the Executive Committee of the ACM SIGCHI China Chapter and as a committee member of the CCF Technical Committee on Human-Computer Interaction.
 
-My research focuses on intelligent human-computer interaction, physiological computing, and intelligent psychological assessment. I have led one project funded by the National Natural Science Foundation of China and one project under the National Key R&D Program, along with four additional projects at the provincial or ministerial level.
+My research focuses on intelligent human-computer interaction, virtual reality, physiological computing, and intelligent psychological assessment. I have led one project funded by the National Natural Science Foundation of China and one project under the National Key R&D Program, along with four additional projects at the provincial or ministerial level.
 
 To date, I have published over 40 papers in top-tier conferences and journals such as ACM CHI, IJHCS, TVCG, Unicomp, JBHI, and IEEE TAFFC, which are recognized as CCF Class A or Q1 journals by the Chinese Academy of Sciences. I have also been awarded a university-level education reform project, contributed to two academic books, and received four provincial or ministerial science and technology awards. In 2020, I was honored with the ACM Rising Star Award.
 
@@ -37,6 +37,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 ## News
 
+- **[Jun. 2025]** Our paper about **Detecting Dynamic Flow** was accepted by UIST 2025.
 - **[Apr. 2025]** I participated in CHI 2025.
 - **[Mar. 2025]** Our paper about [Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) was selected as J-BHI featured article.
 - **[Feb. 2025]** Three of our papers were accepted by CHI 2025.
@@ -55,14 +56,13 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 {% include_relative _includes/publications.md %}
 
 ## Awards
-- **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
-- **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (**75/42254**).
-- **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
-- **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award.
-- **[Apr. 2024]** Second Prize in National College Student Software Innovation competition (**20th/1139**).
-- **[Aug. 2023]** CHCI 2023 Best Paper Honorable Mention Award.
-- **[2022-2024]** Shandong University Special Talent Scholarship (*Research Track*).
-- **[2022-2024]** Shandong University Academic Scholarship.
+
+- **[Jun. 2023]** Second Prize in Science and Technology Progress Award for "Super-sensory Interactive Special Cinema System and Key Technologies", Ministry of Education of the People's Republic of China.
+- **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award (*"Enhancing Embodiment through Wind Sensation: Motion Sickness Intervention in Passive Virtual Driving"*).
+- **[Aug. 2023]** CHCI 2023 Best Paper Honorable Mention Award (*"Research on Team Flow Experience Recognition Based on EEG Signals"*).
+- **[Jul. 2020]** ACM Rising Star Award, ACM China Council.
+- **[Sep. 2018]** Third Prize in Shandong Social Science Excellence Award for *"Effects of problem characteristics on the online helping behavior of shy individuals"*.
+- **[Dec. 2016]** Second Prize from Shandong Provincial Department of Education for *"Proteus Effect in Virtual Reality Social Environments: Effects of Context and Shyness"* (**Provincial Level**).
 
 {% include_relative _includes/services.md %}
 
