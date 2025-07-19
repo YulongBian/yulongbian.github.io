@@ -1,24 +1,4 @@
 main:
-  - title: "Exploring the Weak Association between Flow Experience and Performance in Virtual Environments"
-    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Chao Zhou, Juan Liu, Wei Gai, Xiangxu Meng, Feng Tian, Chia Shen (*Corresponding author)
-    conference_short: CHI
-    conference: The 2018 CHI Conference on Human Factors in Computing Systems.
-    pdf: https://dl.acm.org/doi/10.1145/3173574.3173975
-    image: ./assets/img/CHI18b.png
-  
-  - title: "Effects of Pedagogical Agent's Personality and Emotional Feedback Strategy on Chinese Students' Learning Experiences and Performance: A Study Based on Virtual Tai Chi Training Studio"
-    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Dong-Dong Guan, Sa Xiao, Fengqiang Gao, Chia Shen, Xiangxu Meng (*Corresponding author)
-    conference_short: CHI
-    conference: The 2016 CHI Conference on Human Factors in Computing Systems.
-    pdf: https://dl.acm.org/doi/10.1145/2858036.2858351
-    image: ./assets/img/CHI16.png
-  
-  - title: "A framework for physiological indicators of flow in VR games: construction and preliminary evaluation"
-    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang, Fengqiang Gao, Huiyu Li, Shisheng Zhou, Hanchao Li, Xiaowen Sun, Xiangxu Meng (*Corresponding author)
-    conference_short: PUC
-    conference: Personal and Ubiquitous Computing, 2016.
-    pdf: https://link.springer.com/article/10.1007/s00779-016-0953-5
-    image: ./assets/img/PUC.png
   
   - title: "QCM: A Curvature Manipulation Method to Suppress Discomfort in Redirected Walking"
     authors: Xiyu Bao, Gaorong Lv*, <strong>Yulong Bian*</strong>, Wei Gai, Shiqing Xin, Hongqiu Luan, Xiaojuan Ma, Chenglei Yang* (*Corresponding author)
@@ -125,6 +105,27 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10463763
     bibtex: ./assets/bib/asd.txt
     image: ./assets/img/tvcg.png
+  
+  - title: "Exploring the Weak Association between Flow Experience and Performance in Virtual Environments"
+    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Chao Zhou, Juan Liu, Wei Gai, Xiangxu Meng, Feng Tian, Chia Shen (*Corresponding author)
+    conference_short: CHI
+    conference: The 2018 CHI Conference on Human Factors in Computing Systems.
+    pdf: https://dl.acm.org/doi/10.1145/3173574.3173975
+    image: ./assets/img/CHI18c.png
+  
+  - title: "Effects of Pedagogical Agent's Personality and Emotional Feedback Strategy on Chinese Students' Learning Experiences and Performance: A Study Based on Virtual Tai Chi Training Studio"
+    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang*, Dong-Dong Guan, Sa Xiao, Fengqiang Gao, Chia Shen, Xiangxu Meng (*Corresponding author)
+    conference_short: CHI
+    conference: The 2016 CHI Conference on Human Factors in Computing Systems.
+    pdf: https://dl.acm.org/doi/10.1145/2858036.2858351
+    image: ./assets/img/CHI16.png
+  
+  - title: "A framework for physiological indicators of flow in VR games: construction and preliminary evaluation"
+    authors: 	<strong>Yulong Bian</strong>, Chenglei Yang, Fengqiang Gao, Huiyu Li, Shisheng Zhou, Hanchao Li, Xiaowen Sun, Xiangxu Meng (*Corresponding author)
+    conference_short: PUC
+    conference: Personal and Ubiquitous Computing, 2016.
+    pdf: https://link.springer.com/article/10.1007/s00779-016-0953-5
+    image: ./assets/img/PUC.png
 
   
   

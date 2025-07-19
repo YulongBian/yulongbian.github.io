@@ -88,5 +88,7 @@ I have been fortunate to mentor many self-motivated undergraduate and graduate s
 - **Yiting Deng**: Human-computer Interaction. PhD Student at University of Chinese Academy of Sciences (UCAS)
 - **Yihan Ma**: Human-computer Interaction. Master Student at South China University of Technology (SCUT)
 - **Yunfan Zhou**: Human-computer Interaction. Master Student at Zhejiang University (ZJU)
-- **Yingjie Song**: Human-computer Interaction. Master Student at Tsinghua University (THU)
+- **Yuan yue**: Human-computer Interaction. Master Student at Tsinghua University (THU)
+- **An Bella Chen**: Human-computer Interaction. Master Student at University of Waterloo (UWaterloo)
+- ** Haoxiang Hu**: Human-computer Interaction. PhD Student at Institute of Software Chinese Academy of Sciences (ISCAS)
 
