@@ -1,5 +1,17 @@
 ## Services
 
+
+<h4 style="margin:0 10px 0;">Professional Affiliations</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Member of the Executive Committee of the ACM SIGCHI China Chapter</autocolor></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Member of the CCF Technical Committee on Human-Computer Interaction</autocolor></li>
+</ul>
+
+
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
