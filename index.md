@@ -73,10 +73,10 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 ## Students Mentoring
 I have been fortunate to mentor many self-motivated undergraduate and graduate students, who have made significant contributions to our research projects and have gone on to pursue successful careers in academia and industry.
 
-### PhD Students
+<!-- ### PhD Students
 - **Xiyu Bao**: Virtual Reality and Human-computer Interaction. Postdoc at Shandong University
 - **Wenxiu Geng**: Virtual Reality and Multi-Media. Researcher at State Grid Corporation of China (SGCC)
-- [Yawen Zheng](https://scholar.google.cz/citations?user=dGtfFJcAAAAJ&hl=zh-CN): Virtual Reality and Human-computer Interaction. Postdoc at Institute of Software Chinese Academy of Sciences
+- [Yawen Zheng](https://scholar.google.cz/citations?user=dGtfFJcAAAAJ&hl=zh-CN): Virtual Reality and Human-computer Interaction. Postdoc at Institute of Software Chinese Academy of Sciences -->
 
 ### Master Students
 - [Weiying Liu](https://scholar.google.cz/citations?user=cY_DVhgAAAAJ&hl=zh-CN): Virtual Reality and Human-computer Interaction. PhD Student at the Hong Kong University of Science and Technology (HKUST)
