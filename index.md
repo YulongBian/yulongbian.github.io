@@ -76,15 +76,15 @@ I have been fortunate to mentor many self-motivated undergraduate and graduate s
 ### PhD Students
 - **Xiyu Bao**: Virtual Reality and Human-computer Interaction. Postdoc at Shandong University
 - **Wenxiu Geng**: Virtual Reality and Multi-Media. Researcher at State Grid Corporation of China (SGCC)
-- **Yawen Zheng**: Virtual Reality and Human-computer Interaction. Postdoc at Institute of Software Chinese Academy of Sciences
+- [Yawen Zheng](https://scholar.google.cz/citations?user=dGtfFJcAAAAJ&hl=zh-CN): Virtual Reality and Human-computer Interaction. Postdoc at Institute of Software Chinese Academy of Sciences
 
 ### Master Students
-- **Weiying Liu**: Virtual Reality and Human-computer Interaction. PhD Student at the Hong Kong University of Science and Technology (HKUST)
+- [Weiying Liu](https://scholar.google.cz/citations?user=cY_DVhgAAAAJ&hl=zh-CN): Virtual Reality and Human-computer Interaction. PhD Student at the Hong Kong University of Science and Technology (HKUST)
 - **Tangjun Qu**: Virtual Reality and Human-computer Interaction. Lecturer at Yanbian University
 - **Yang Zhang**: Virtual Reality and Human-computer Interaction. Staff at Shandong University
 
 ### Undergraduates
-- [**Baiqiao Zhang**](https://sleepybq.github.io/): Human-computer Interaction and Natural Language Processing. PhD Student at the Hong Kong University of Science and Technology (HKUST)
+- [Baiqiao Zhang](https://sleepybq.github.io/): Human-computer Interaction and Natural Language Processing. PhD Student at the Hong Kong University of Science and Technology (HKUST)
 - **Yiting Deng**: Human-computer Interaction. PhD Student at University of Chinese Academy of Sciences (UCAS)
 - **Yihan Ma**: Human-computer Interaction. Master Student at South China University of Technology (SCUT)
 - **Yunfan Zhou**: Human-computer Interaction. Master Student at Zhejiang University (ZJU)
