@@ -1,5 +1,12 @@
 main:
   
+
+  - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
+    authors: Baiqiao Zhang, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, <strong>Yulong Bian*</strong> (*Corresponding author)
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing
+    image: ./assets/img/EMNLP.png
+
   - title: "QCM: A Curvature Manipulation Method to Suppress Discomfort in Redirected Walking"
     authors: Xiyu Bao, Gaorong Lv*, <strong>Yulong Bian*</strong>, Wei Gai, Shiqing Xin, Hongqiu Luan, Xiaojuan Ma, Chenglei Yang* (*Corresponding author)
     conference_short: CHI
@@ -35,10 +42,9 @@ main:
     authors: Shilong Liu, Chaorui Tong, Zelu Liu, Xiangxian Li*, Yawen Zheng, Chao Zhou, Juan Liu, <strong>Yulong Bian*</strong> (*Corresponding authors)
     conference_short: UIST
     conference: The ACM Symposium on User Interface Software and Technology, 2025.
-    pdf: https://dl.acm.org/doi/10.1145/3699774
+    pdf: ./assets/files/UIST25.pdf
     image: ./assets/img/UIST.png
     notes: Oral Presentation
-  
   
   - title: "Examining the Validity of An Endoscopist-patient Co-participative Virtual Reality Method (EPC-VR) in Pain Relief during Colonoscopy"
     authors: <strong>Yulong Bian</strong>, Juan Liu, Yongjiu Lin, Weiying Liu, Yang Zhang, Tangjun Qu, Sheng Li, Zhaojie Pan, Wenming Liu, Wei Huang, Ying Shi* (*Corresponding author)
